@@ -139,5 +139,5 @@ It reflects how data analysis is applied in **real marketplace, real estate, and
 
 ## 👤 Author
 
-**Syed Irshad**  
+**Syed Irshad A.**  
 Aspiring Data Analyst | Business Analytics & Data Science  
