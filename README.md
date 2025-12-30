@@ -108,13 +108,13 @@ Some of the key insights from the analysis include:
 ![Market Overview](powerbi/dashboard_screenshots/page_1_market_overview.png.png)
 
 ### Page 2 — Property & Neighborhood Analysis
-![Property & Neighborhood](powerbi/dashboard_screenshots/page_2_property_neighborhood.png)
+![Property & Neighborhood](powerbi/dashboard_screenshots/page_2_property_neighborhood.png.png)
 
 ### Page 3 — Pricing & Demand Analysis
-![Pricing & Demand](powerbi/dashboard_screenshots/page_3_pricing_demand.png)
+![Pricing & Demand](powerbi/dashboard_screenshots/page_3_pricing_demand.png.png)
 
 ### Page 4 — Host & Market Structure
-![Host Structure](powerbi/dashboard_screenshots/page_4_host_structure.png)
+![Host Structure](powerbi/dashboard_screenshots/page_4_host_structure.png.png)
 
 ---
 
