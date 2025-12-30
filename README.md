@@ -105,7 +105,7 @@ Some of the key insights from the analysis include:
 ## 📊 Dashboard Preview
 
 ### Page 1 — Market Overview
-![Market Overview](powerbi/dashboard_screenshots/page_1_market_overview.png)
+![Market Overview](powerbi/dashboard_screenshots/page_1_market_overview.png.png)
 
 ### Page 2 — Property & Neighborhood Analysis
 ![Property & Neighborhood](powerbi/dashboard_screenshots/page_2_property_neighborhood.png)
